@@ -1,0 +1,14 @@
+{
+  "name": "getelementsbytext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "build": "babel src/getElementsByText.js -o build.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.7.5"
+  }
+}
