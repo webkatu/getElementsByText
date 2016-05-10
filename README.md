@@ -37,4 +37,4 @@ build.js is getElementsByText.js.
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://github.com/webkatu/getElementsByText/blob/master/LICENSE)
